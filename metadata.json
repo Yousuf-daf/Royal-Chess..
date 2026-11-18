@@ -1,0 +1,6 @@
+{
+  "name": "Royal Chess",
+  "description": "A luxury dark-themed online chess arena powered by Stockfish 19 and full FIDE rules, featuring AI opponents, local multiplayer, and configurable chess clocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
